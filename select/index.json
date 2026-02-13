@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "flyaway",
+  "base_artist": "BACK-ON",
+  "createdAt": "2026-02-13T20:41:42.529223Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beautiful Flyaway",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/01_Beautiful_Flyaway_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flyaway",
+      "artist": "Joan Osborne",
+      "has_synced": false,
+      "path": "select/02_Flyaway_Joan_Osborne.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "flyaway",
+      "artist": "Aleebi",
+      "has_synced": true,
+      "path": "select/03_flyaway_Aleebi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flyaway",
+      "artist": "阿部真央",
+      "has_synced": false,
+      "path": "select/04_Flyaway_阿部真央.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FLYAWAY",
+      "artist": "Tussin",
+      "has_synced": true,
+      "path": "select/05_FLYAWAY_Tussin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flyaway [Live]",
+      "artist": "Joan Osborne",
+      "has_synced": true,
+      "path": "select/06_Flyaway_[Live]_Joan_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beautiful Flyaway",
+      "artist": "alice cooper group",
+      "has_synced": true,
+      "path": "select/07_Beautiful_Flyaway_alice_cooper_group.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FlyAway",
+      "artist": "Gary Stadler & Wendy Rule",
+      "has_synced": true,
+      "path": "select/08_FlyAway_Gary_Stadler_&_Wendy_Rule.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flyaway",
+      "artist": "阿部真央",
+      "has_synced": true,
+      "path": "select/09_Flyaway_阿部真央.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Flyaway",
+      "artist": "Ikaya",
+      "has_synced": true,
+      "path": "select/10_Flyaway_Ikaya.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "flyaway",
+      "artist": "BACK-ON",
+      "has_synced": true,
+      "path": "select/11_flyaway_BACK-ON.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "flyaway",
+      "artist": "BACK-ON",
+      "has_synced": true,
+      "path": "select/12_flyaway_BACK-ON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "flyaway",
+      "artist": "BACK-ON",
+      "has_synced": false,
+      "path": "select/pl_01_flyaway_BACK-ON.txt"
+    }
+  ]
+}
